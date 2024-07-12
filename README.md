@@ -62,10 +62,11 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=dark&hide_border=true)<br/>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusaldmsr&theme=radical&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 <br>
 <br>
