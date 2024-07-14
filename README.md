@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="file.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="file.png"  height="200">
     </div>
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
