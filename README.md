@@ -25,7 +25,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <br>
 
-🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter-related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Youtube **@TheetaKD**
+🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter-related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Youtube **@TheetaKD , @Cusaldmsr**
 
 <br>
 <br>
