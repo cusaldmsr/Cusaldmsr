@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="file.png"  height="200">
+        <img src="Cusal-Header-Animation.png"  height="400">
     </div>
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
@@ -15,7 +15,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <br>
 
-<img align="right" alt="Coding" width="400" src="Singing Contract.gif">
+
 
 
 
@@ -24,15 +24,19 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 # 💫 About Me:
 <br>
 <br>
+<img align="right" alt="Coding" width="300" src="Cusal-Animation.png">
 
-🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter-related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : <p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p>
+🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter-related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : 
+<br>
+<br>
+<a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a>
 
 <br>
 <br>
 
 <br>
 <div align="center">
-<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<h2 align="center">Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
 <a href="https://www.linkedin.com/in/kusal-damsara-765452159/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
 <a href="https://www.instagram.com/cusaldmzr" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://www.facebook.com/cusaldmsr" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
@@ -107,6 +111,11 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<br>
+<div align="center">
+<img src="Cusal-Animation.gif" width="200">
+</div>
+<br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
