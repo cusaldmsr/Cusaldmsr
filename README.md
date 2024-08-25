@@ -21,7 +21,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 
-# 💫 About Me:
+# 💫 About Me :
 <br>
 <br>
 <img align="right" alt="Coding" width="300" src="Cusal-Animation.png">
