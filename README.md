@@ -84,7 +84,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)
-[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&bg_color=0D1117&color=CDF5FD&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/cusaldmsr)
+[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
 ![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)<br>
 ![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117)
 
