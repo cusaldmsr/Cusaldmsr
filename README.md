@@ -6,10 +6,18 @@
 <h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
 I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
+<p align="center">
+        <img src="https://img.shields.io/github/created-at/cusaldmsr/Cusaldmsr"/>
+        <img src="https://img.shields.io/github/commit-activity/m/cusaldmsr/Cusaldmsr"/>
+        <img src="https://img.shields.io/github/forks/cusaldmsr/Cusaldmsr"/>
+        <img src="https://img.shields.io/github/stars/cusaldmsr/Cusaldmsr"/>
+        <img src="https://img.shields.io/github/watchers/cusaldmsr/Cusaldmsr"/>
+        <img src="https://img.shields.io/github/followers/cusaldmsr"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cusaldmsr&label=Profile%20views&color=0e75b6&style=flat" alt="cusaldmsr" /> </p>
 
-<p align="center"> <a href="https://twitter.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr?logo=twitter&style=for-the-badge" alt="cusaldmsr" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr" alt="cusaldmsr" /></a> </p>
 
 
 <br>
