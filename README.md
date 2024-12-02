@@ -104,7 +104,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 [![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
 ![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)<br>
 ![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/cusaldmsr)
 
 </div>
 <br>
