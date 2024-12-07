@@ -110,6 +110,18 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <br>
 
+
+<div align="center">
+       <h1>📈Last Day Coding Stats Overview</h1>
+</div>
+<br>
+
+<div align="center">
+
+<img src="https://wakatime.com/share/@cusaldmsr/3080fe91-229b-4c67-a279-e0d4b59ef055.svg" height="400">
+ 
+</div>
+<br>
 <div align="center">
        <h1>🏆 GitHub Trophies</h1>
 </div>
