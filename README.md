@@ -112,7 +112,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 <div align="center">
-       <h1>📈Last Day Coding Stats Overview</h1>
+       <h1>📈 Coding Stats Overview</h1>
 </div>
 <br>
 
@@ -138,8 +138,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="cusaldmsr" />
+  <a href="https://github.com/cusaldmsr"><img  src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/snake.svg" alt="cusaldmsr" /></a>
 </p>
 <br>
 <div align="center">
