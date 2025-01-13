@@ -115,11 +115,15 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
        <h1>📈 Coding Stats Overview</h1>
 </div>
 <br>
-
 <div align="center">
-
-<img src="https://wakatime.com/share/@cusaldmsr/3080fe91-229b-4c67-a279-e0d4b59ef055.svg" height="400">
- 
+<h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
+<br>
+<img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="500"/>
+</div>
+<div align="center">
+<h2 align="center"> Editors over All Time (From November 2024 to today)</h2>
+<br>
+<img src="https://wakatime.com/share/@cusaldmsr/01478b3f-0160-4934-b337-3b9633cda031.svg" height="500"/>
 </div>
 <br>
 <div align="center">
