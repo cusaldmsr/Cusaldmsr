@@ -3,6 +3,7 @@
     </div>
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
+<img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
 I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
@@ -30,6 +31,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 # 💫 About Me :
+ <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <br>
 <br>
 <img align="right" alt="Coding" width="300" src="Cusal-Animation.png">
@@ -67,8 +69,11 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 <div align="center">
-       <h1>💻 Tech Stack</h1>
+        <h1>💻 Tech Stack</h1
+       
 </div>
+
+ <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <br>
 <div align="center">
         
@@ -94,6 +99,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <div align="center">
        <h1>📊 GitHub Stats</h1>
 </div>
+ <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
@@ -114,6 +120,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <div align="center">
        <h1>📈 Coding Stats Overview</h1>
 </div>
+ <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <br>
 <div align="center">
 <h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
@@ -129,6 +136,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <div align="center">
        <h1>🏆 GitHub Trophies</h1>
 </div>
+ <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
