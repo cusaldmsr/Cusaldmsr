@@ -81,7 +81,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio" /> |
 | OS |  <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat,apple" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,flutter" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,flutter" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vite,js,react,laravel" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,php,spring,nodejs,mysql,mongodb,firebase,python" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
