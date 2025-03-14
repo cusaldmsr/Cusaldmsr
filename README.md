@@ -79,13 +79,14 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
         
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio" /> |
-| OS |  <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat,apple" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,flutter" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vite,js,react,laravel" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,php,spring,nodejs,mysql,mongodb,firebase,python" /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio,arduino" /> |
+| OS |  <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,react,flutter" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vite,js,react" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,php,spring,nodejs,python" /> |
+| DB |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=arduino,stackoverflow,discord,git,github,jenkins,gitlab,maven,postman,powershell,bash,notion,docker" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,bash,notion,docker" /> |
 | favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,java,js,raspberrypi,arduino" /> |
 
 </div>
