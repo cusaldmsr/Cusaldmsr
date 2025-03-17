@@ -86,8 +86,8 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,php,spring,nodejs,python" /> |
 | DB |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,bash,notion,docker" /> |
-| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,java,js,raspberrypi,arduino" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,docker" /> |
+| favourite |  <img src="https://skillicons.dev/icons?i=python,js,java,react,raspberrypi,arduino" /> |
 
 </div>
 <br>
