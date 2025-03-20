@@ -128,11 +128,11 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="500"/>
 </div>
-<div align="center">
+<!-- <div align="center">
 <h2 align="center"> Editors over All Time (From November 2024 to today)</h2>
 <br>
 <img src="https://wakatime.com/share/@cusaldmsr/01478b3f-0160-4934-b337-3b9633cda031.svg" height="500"/>
-</div>
+</div> -->
 <br>
 <div align="center">
        <h1>🏆 GitHub Trophies</h1>
