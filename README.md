@@ -113,6 +113,11 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/cusaldmsr)
 
+<div align="center">
+        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)
+
+</div>
 </div>
 <br>
 <br>
