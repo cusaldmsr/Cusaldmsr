@@ -1,9 +1,9 @@
 <div align=center>
-        <img src="Cusal-Header-Animation.png"  height="400">
+        <img src="Assets/Cusal-Header-Animation.png"  height="400">
     </div>
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
-<img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
+<img src="Assets/Cusal_line.gif" alt="line">
 <h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
 I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
@@ -20,23 +20,17 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <p align="center"> <a href="https://twitter.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr" alt="cusaldmsr" /></a> </p>
 
-
 <br>
 <br>
-
-
-
-
-
-
 
 # 💫 About Me :
- <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
-<br>
-<br>
-<img align="right" alt="Coding" width="300" src="Cusal-Animation.png">
 
-🌱 I’m currently learning **MERN stack** , **Python** , **Spring Boot** , **Angular**<br><br>👯 I’m looking to collaborate on **open-source coding projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : 
+ <img src="Assets/Cusal_line.gif" alt="line">
+<br>
+<br>
+<img align="right" alt="Coding" width="300" src="Assets/Cusal-Animation.png">
+
+🌱 I’m currently learning **MERN stack** , **Python** , **Spring Boot** , **Angular**<br><br>👯 I’m looking to collaborate on **open-source coding projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support :
 <br>
 <br>
 <a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a>
@@ -66,14 +60,12 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <br>
 
-
-
 <div align="center">
         <h1>💻 Tech Stack</h1
        
 </div>
 
- <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
+ <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 <div align="center">
         
@@ -96,15 +88,13 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 </div>
 <br>
 
-
 <div align="center">
        <h1>📊 GitHub Stats</h1>
 </div>
- <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
+ <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)
@@ -122,11 +112,10 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br>
 <br>
 
-
 <div align="center">
        <h1>📈 Coding Stats Overview</h1>
 </div>
- <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
+ <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 <div align="center">
 <h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
@@ -142,7 +131,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <div align="center">
        <h1>🏆 GitHub Trophies</h1>
 </div>
- <img src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/Cusal_line.gif" alt="line">
+ <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
@@ -152,15 +141,14 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 </div>
 <br>
 
-
 <br>
 
 <p align="center">
-  <a href="https://github.com/cusaldmsr"><img  src="https://github.com/cusaldmsr/Cusaldmsr/blob/main/snake.svg" alt="cusaldmsr" /></a>
+  <a href="https://github.com/cusaldmsr"><img  src="Assets/snake.svg" alt="cusaldmsr" /></a>
 </p>
 <br>
 <div align="center">
-<img src="Cusal-Animation.gif" width="200">
+<img src="Assets/Cusal-Animation.gif" width="200">
 </div>
 <br>
 <p align="center">
