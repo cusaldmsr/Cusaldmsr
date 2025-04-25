@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
 <img src="Assets/Cusal_line.gif" alt="line">
-<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br>
-I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
+<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br></h3>
 
 <p align="center">
         <img src="https://img.shields.io/github/created-at/cusaldmsr/Cusaldmsr"/>
