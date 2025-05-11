@@ -29,7 +29,7 @@
 <br>
 <img align="right" alt="Coding" width="300" src="Assets/Cusal-Animation.png">
 
-🌱 I’m currently learning **MERN stack** , **Python** , **Spring Boot** , **Angular**<br><br>👯 I’m looking to collaborate on **open-source coding projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support :
+🌱 I’m currently learning **MERN stack** , **Python** , **Spring Boot** , **Angular**, **Solidity**<br><br>👯 I’m looking to collaborate on **open-source coding projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support :
 <br>
 <br>
 <a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a>
