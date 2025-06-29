@@ -47,38 +47,36 @@
 
 </div>
 <br>
-<!-- <p align="left">
-<a href="https://twitter.com/cusaldmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cusaldmsr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kusal damsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal damsara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/cusal dmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cusal dmsr" height="30" width="40" /></a>
-<a href="https://fb.com/cusaldmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cusaldmsr" height="30" width="40" /></a>
-<a href="https://instagram.com/cusaldmzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cusaldmzr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cusaldmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cusaldmsr" height="30" width="40" /></a>
-<a href="https://discord.gg/cusaldmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cusaldmsr" height="30" width="40" /></a>
-</p> -->
-<br>
 <br>
 
 <div align="center">
-        <h1>💻 Tech Stack</h1
+        <h1>💻 Tech Skills</h1>
        
 </div>
 
  <img src="Assets/Cusal_line.gif" alt="line">
 <br>
-<div align="center">
-        
-| Title | Icon |
-| ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio,arduino" /> |
-| OS |  <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,react,flutter" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vite,js,react" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,php,spring,nodejs,python" /> |
-| DB |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> |
-| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,docker" /> |
-| favourite |  <img src="https://skillicons.dev/icons?i=python,js,java,react,raspberrypi,arduino" /> |
+<div align="left">
+        <div align="center">
+<!--         <h3>IDE's</h3> -->
+                <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio,arduino,eclipse,remix" />
+<!--         <h3>OS</h3> -->
+                <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat,debian" />
+<!--         <h3>App Development</h3> -->
+                <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,react,flutter" /> 
+<!--         <h3>Front End</h3> -->
+                <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,angular,vite,react" />
+<!--         <h3>Back End</h3> -->
+                <img src="https://skillicons.dev/icons?i=solidity,hibernate,php,spring,nodejs,python,dotnet,express,go,gradle,rust" /> 
+<!--         <h3>Database</h3> -->
+                <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp" />
+<!--         <h3>UI Tools</h3> -->
+                <img src="https://skillicons.dev/icons?i=figma,xd" />
+<!--         <h3>Others</h3> -->
+                <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,docker,githubactions,notion" />
+<!--         <h3>favourite</h3> -->
+                <img src="https://skillicons.dev/icons?i=raspberrypi" />
+        </div>
 
 </div>
 <br>
@@ -87,29 +85,37 @@
 </div>
 <br>
 
-<div align="center">
-       <h1>📊 GitHub Stats</h1>
-</div>
+
+# 📊 GitHub Stats:
  <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
+        <div align="center">
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" >
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" >
+        </div>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)
-[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
-![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)<br>
-![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/cusaldmsr)
+<div align="center">
+        <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" >
+        <img align="center" height="330px" width="450px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
+</div>
 
 <div align="center">
         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>-->
 
+<p align="center">
+  <img height="150" width="150" src="Assets/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="150" width="150" src="Assets/right.webp">
+</p>
+<div align="center">
+        
+[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
 </div>
 </div>
-<br>
-<br>
 
 <div align="center">
        <h1>📈 Coding Stats Overview</h1>
@@ -117,30 +123,34 @@
  <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 <div align="center">
-<h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
-<br>
-<img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="500"/>
-</div>
-<!-- <div align="center">
-<h2 align="center"> Editors over All Time (From November 2024 to today)</h2>
-<br>
-<img src="https://wakatime.com/share/@cusaldmsr/01478b3f-0160-4934-b337-3b9633cda031.svg" height="500"/>
-</div> -->
-<br>
+
+        
 <div align="center">
-       <h1>🏆 GitHub Trophies</h1>
+        <div align="center">
+                <h3 align="center">Coding Activity & Editors</h3>
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/67720f7a-c4bb-4d4e-aa03-285d8b7dae7f.svg" >
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/8f950a77-0fd1-42d6-93c5-a2091b2fb4b0.svg" >
+        </div>
+        <div align="center">
+                <h3 align="center"> Languages over All Time (From November 2024 to today)</h3>
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cusaldmsr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
+        </div>
 </div>
+
+
+# 🏆 GitHub Trophies
  <img src="Assets/Cusal_line.gif" alt="line">
 <br>
 
 <div align="center">
         
-![](https://github-profile-trophy.vercel.app/?username=cusaldmsr&theme=radical&no-frame=false&layout=compact&hide_border=true&no-bg=true&margin-w=4)
-        
+![](https://github-profile-trophy.vercel.app/?username=cusaldmsr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=3&column=3&margin-h=15)
+
 </div>
 <br>
-
 <br>
+
 
 <p align="center">
   <a href="https://github.com/cusaldmsr"><img  src="Assets/snake.svg" alt="cusaldmsr" /></a>
