@@ -92,14 +92,14 @@
 
 <div align="center">
         <div align="center">
-                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" >
-                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" >
+                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" >
+                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" >
         </div>
 </div>
 
 <div align="center">
-        <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" >
-        <img align="center" height="330px" width="450px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
+        <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" >
+        <img align="center" height="330px" width="350px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
 </div>
 
 <div align="center">
@@ -128,13 +128,13 @@
 <div align="center">
         <div align="center">
                 <h3 align="center">Coding Activity & Editors</h3>
-                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/67720f7a-c4bb-4d4e-aa03-285d8b7dae7f.svg" >
-                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/8f950a77-0fd1-42d6-93c5-a2091b2fb4b0.svg" >
+                <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/67720f7a-c4bb-4d4e-aa03-285d8b7dae7f.svg" >
+                <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/8f950a77-0fd1-42d6-93c5-a2091b2fb4b0.svg" >
         </div>
         <div align="center">
                 <h3 align="center"> Languages over All Time (From November 2024 to today)</h3>
-                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >
-                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cusaldmsr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
+                <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >
+                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cusaldmsr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
         </div>
 </div>
 
