@@ -98,7 +98,8 @@
 </div>
 
 <div align="center">
-        <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" >
+<!--         <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" > -->
+        <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=react&count_private=true&bg_color=0D1117&hide_border=true" alt="cusaldmsr" >
         <img align="center" height="330px" width="350px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
 </div>
 
