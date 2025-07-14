@@ -69,7 +69,7 @@
 <!--         <h3>Back End</h3> -->
                 <img src="https://skillicons.dev/icons?i=solidity,hibernate,php,spring,nodejs,python,dotnet,express,go,gradle,rust" /> 
 <!--         <h3>Database</h3> -->
-                <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp" />
+                <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,ipfs,gcp" />
 <!--         <h3>UI Tools</h3> -->
                 <img src="https://skillicons.dev/icons?i=figma,xd" />
 <!--         <h3>Others</h3> -->
