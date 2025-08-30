@@ -17,7 +17,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cusaldmsr&label=Profile%20views&color=0e75b6&style=flat" alt="cusaldmsr" /> </p>
 
-<p align="center"> <a href="https://twitter.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr" alt="cusaldmsr" /></a> </p>
+<p align="center"> <a href="https://x.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr" alt="cusaldmsr" /></a> </p>
 
 <br>
 <br>
@@ -65,7 +65,7 @@
 <!--         <h3>App Development</h3> -->
                 <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,react,flutter" /> 
 <!--         <h3>Front End</h3> -->
-                <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,angular,vite,react" />
+                <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,angular,vite,react,typescript" />
 <!--         <h3>Back End</h3> -->
                 <img src="https://skillicons.dev/icons?i=solidity,hibernate,php,spring,nodejs,python,dotnet,express,go,gradle,rust" /> 
 <!--         <h3>Database</h3> -->
