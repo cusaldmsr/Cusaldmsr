@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
 <img src="Assets/Cusal_line.gif" alt="line">
-<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University. <br></h3>
 
 <p align="center">
         <img src="https://img.shields.io/github/created-at/cusaldmsr/Cusaldmsr"/>
@@ -91,28 +90,6 @@
 <br>
 
 <div align="center">
-        <div align="center">
-                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" >
-                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" >
-        </div>
-</div>
-
-<div align="center">
-<!--         <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" > -->
-        <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=react&count_private=true&bg_color=0D1117&hide_border=true" alt="cusaldmsr" >
-        <img align="center" height="330px" width="350px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
-</div>
-
-<div align="center">
-        
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>-->
-
-<p align="center">
-  <img height="150" width="150" src="Assets/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img height="150" width="150" src="Assets/right.webp">
-</p>
-<div align="center">
         
 [![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
 </div>
@@ -133,9 +110,8 @@
                 <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/8f950a77-0fd1-42d6-93c5-a2091b2fb4b0.svg" >
         </div>
         <div align="center">
-                <h3 align="center"> Languages over All Time (From November 2024 to today)</h3>
-                <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >
-                <img align="center" height="330px" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cusaldmsr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
+                <h3 align="center"> Languages over All Time (last year)</h3>
+                <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >     
         </div>
 </div>
 
