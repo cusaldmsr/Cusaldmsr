@@ -57,9 +57,6 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
-<img src="Assets/Cusal_line.gif" alt="line">
-
 
 ## 📊 Cyber Stats
 
