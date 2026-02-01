@@ -48,9 +48,6 @@
 ---
 
 ## 📊 GitHub Cyber Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&show_icons=true&theme=tokyonight&hide_border=true&v=2&token=GH_TOKEN" />
-</p>
 
 <p align="center">
   <picture>
@@ -75,9 +72,6 @@
 ---
 
 ## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=compact&theme=tokyonight&hide_border=true&token=GH_TOKEN" />
-</p>
 
 <p align="center">
   <picture>
@@ -89,9 +83,6 @@
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cusaldmsr&theme=tokyo-night&v=2" />
-</p>
 
 <p align="center">
   <picture>
