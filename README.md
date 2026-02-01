@@ -1,3 +1,4 @@
+
 <!-- CYBER HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7f00ff&height=200&section=header&text=Kusal%20Damsara%20%7C%20Web3%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
@@ -56,7 +57,9 @@
 
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
+<img src="Assets/Cusal_line.gif" alt="line">
+
 
 ## 📊 Cyber Stats
 
@@ -72,6 +75,7 @@
     />
   </picture>
 </p> -->
+
 <div align="center">
 
         
@@ -86,6 +90,7 @@
                 <img align="center" height="330px" width="350px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >     
         </div>
 </div>
+
 <br>
 <p align="center">
   <picture>
@@ -94,7 +99,7 @@
   </picture>
 </p>
 
----
+
 
 ## 🧠 Most Used Languages
 
@@ -156,6 +161,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 </p>
 
 <!-- CYBER FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00f5ff&height=120&section=footer"/>
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
