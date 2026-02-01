@@ -1,9 +1,18 @@
+
+<!-- CYBER HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7f00ff&height=200&section=header&text=Kusal%20Damsara%20%7C%20Web3%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 <div align=center>
         <img src="Assets/Cusal-Header-Animation.png"  height="400">
     </div>
+<h3 align="center">
+🚀 Software Engineer | Blockchain & Web3 Developer | Smart Contracts
+</h3>
 
-<h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
-<img src="Assets/Cusal_line.gif" alt="line">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cusaldmsr&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" />
+</p>
 
 <p align="center">
         <img src="https://img.shields.io/github/created-at/cusaldmsr/Cusaldmsr"/>
@@ -14,92 +23,59 @@
         <img src="https://img.shields.io/github/followers/cusaldmsr"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cusaldmsr&label=Profile%20views&color=0e75b6&style=flat" alt="cusaldmsr" /> </p>
+---
 
-<p align="center"> <a href="https://x.com/cusaldmsr" target="blank"><img src="https://img.shields.io/twitter/follow/cusaldmsr" alt="cusaldmsr" /></a> </p>
+## 🧠 About Me
+- 🔗 Passionate about **Blockchain, Web3 & Decentralized Systems**
+- 🧩 Building **Smart Contracts, DApps & Full-Stack Applications**
+- 🎓 BSc (Hons) Software Engineering Undergraduate
+- 🧙‍♂️ CyberSec + Web3 enthusiast
 
-<br>
-<br>
+---
 
-# 💫 About Me :
+## ⚡ Web3 & Blockchain Tech Stack
+<p align="center">
 
- <img src="Assets/Cusal_line.gif" alt="line">
-<br>
-<br>
-<img align="right" alt="Coding" width="300" src="Assets/Cusal-Animation.png">
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=00f5ff)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=7f00ff)
+![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3.js&logoColor=00f5ff)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=00f5ff)
 
-🌱 I’m currently learning **MERN stack** , **Python** , **Spring Boot** , **Angular**, **Solidity**<br><br>👯 I’m looking to collaborate on **open-source coding projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support :
-<br>
-<br>
-<a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a>
+</p>
 
-<br>
-<br>
+---
 
-<br>
-<div align="center">
-<h2 align="center">Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
-<a href="https://www.linkedin.com/in/kusal-damsara-765452159/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
-<a href="https://www.instagram.com/cusaldmzr" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
-<a href="https://www.facebook.com/cusaldmsr" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
-<a href="https://www.x.com/cusaldmsr" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
+## 🧰 Software Engineering Stack
+<p align="center">
 
-</div>
-<br>
-<br>
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=00f5ff)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f5ff)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00f5ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00f5ff)
 
-<div align="center">
-        <h1>💻 Tech Skills</h1>
-       
-</div>
+</p>
 
- <img src="Assets/Cusal_line.gif" alt="line">
-<br>
-<div align="left">
-        <div align="center">
-<!--         <h3>IDE's</h3> -->
-                <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio,arduino,eclipse,remix" />
-<!--         <h3>OS</h3> -->
-                <img src="https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch,redhat,debian" />
-<!--         <h3>App Development</h3> -->
-                <img src="https://skillicons.dev/icons?i=dart,java,kotlin,electron,react,flutter" /> 
-<!--         <h3>Front End</h3> -->
-                <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,angular,vite,react,typescript" />
-<!--         <h3>Back End</h3> -->
-                <img src="https://skillicons.dev/icons?i=solidity,hibernate,php,spring,nodejs,python,dotnet,express,go,gradle,rust" /> 
-<!--         <h3>Database</h3> -->
-                <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,ipfs,gcp" />
-<!--         <h3>UI Tools</h3> -->
-                <img src="https://skillicons.dev/icons?i=figma,xd" />
-<!--         <h3>Others</h3> -->
-                <img src="https://skillicons.dev/icons?i=stackoverflow,git,github,maven,postman,docker,githubactions,notion" />
-<!--         <h3>favourite</h3> -->
-                <img src="https://skillicons.dev/icons?i=raspberrypi" />
-        </div>
-
-</div>
-<br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-</div>
-<br>
+<h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
+<img src="Assets/Cusal_line.gif" alt="line">
 
 
-# 📊 GitHub Stats:
- <img src="Assets/Cusal_line.gif" alt="line">
-<br>
+## 📊 Cyber Stats
 
-<div align="center">
-        
-[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=react&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
-</div>
-</div>
+<!-- <p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cusaldmsr&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cusaldmsr&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
+</p> -->
 
-<div align="center">
-       <h1>📈 Coding Stats Overview</h1>
-</div>
- <img src="Assets/Cusal_line.gif" alt="line">
-<br>
 <div align="center">
 
         
@@ -115,31 +91,77 @@
         </div>
 </div>
 
-
-# 🏆 GitHub Trophies
- <img src="Assets/Cusal_line.gif" alt="line">
 <br>
+<p align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=cusaldmsr&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cusaldmsr&theme=tokyonight&hide_border=true" />
+  </picture>
+</p>
 
-<div align="center">
+
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <!-- <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cusaldmsr&layout=compact&theme=tokyonight&hide_border=true" />
+  </picture> -->
+
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,solidity,rust,go,ts" /> 
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <!-- <picture>
+    <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=cusaldmsr&theme=tokyo-night" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusaldmsr&theme=tokyonight" />
+  </picture> -->
+  <div align="center">
         
-![](https://github-profile-trophy.vercel.app/?username=cusaldmsr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=3&column=3&margin-h=15)
-
+[![Kusal Damsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cusaldmsr&theme=tokyo-night&bg_color=0D1117&color=CDF5FD&line=00A9FF&point=9CFF2E&area=true&hide_border=true)](https://github.com/cusaldmsr)
 </div>
-<br>
-<br>
+</p>
 
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/cusaldmsr">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
+  </a>
+  <a href="https://www.facebook.com/cusaldmsr">
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00f5ff"/>
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=7f00ff"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00f5ff"/>
+  </a>
+  <a href="https://www.x.com/cusaldmsr">
+    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=X&logoColor=00f5ff"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/cusaldmsr"><img  src="Assets/snake.svg" alt="cusaldmsr" /></a>
 </p>
-<br>
-<div align="center">
-<img src="Assets/Cusal-Animation.gif" width="200">
-</div>
+
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
+<p align="center">
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<!-- CYBER FOOTER -->
+
 <p align="center">
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
