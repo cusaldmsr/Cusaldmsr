@@ -89,13 +89,6 @@
 </div>
 
 <br>
-<p align="center">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=cusaldmsr&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cusaldmsr&theme=tokyonight&hide_border=true" />
-  </picture>
-</p>
-
 
 
 ## 🧠 Most Used Languages
@@ -152,9 +145,6 @@
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
-</p>
-<p align="center">
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <!-- CYBER FOOTER -->
